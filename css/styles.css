@@ -1,0 +1,32 @@
+.side-text {
+line-height: 1em;
+margin: 0;
+padding: 3em 0em;
+font-size: .85em;
+word-wrap: break-word;
+color: blue;
+text-align: left;
+float: left;
+}
+.nav {
+  float: right;
+}
+
+.not-blue {
+  color: black;
+}
+
+.float-right {
+  float: right;
+}
+.panel-body {
+  background: #FCFCFC;
+  border: 1px solid #9E0101;
+  margin: 0 auto 1em auto;
+  font-size: 120%;
+  overflow: hidden;
+  text-align: center;
+  padding: 0.5ex;
+  margin-top: 17px;
+
+}
